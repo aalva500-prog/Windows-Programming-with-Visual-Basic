@@ -1,0 +1,291 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BookStoreDO
+</name>
+</assembly>
+<members>
+<member name="T:BookStoreDO.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BookStoreDO.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BookStoreDO.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.authorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.discountsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.jobsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.pub_infoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.publishersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.royschedDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.salesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.storesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.titleauthorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.titlesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.authorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.discountsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.jobsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.pub_infoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.publishersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.royschedRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.salesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.storesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.titleauthorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.titlesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.authorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.discountsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.jobsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.pub_infoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.publishersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.royschedRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.salesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.storesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.titleauthorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSet.titlesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.authorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.discountsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.employeeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.jobsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.pub_infoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.publishersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.royschedTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.salesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.storesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.titleauthorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.titlesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BookStoreDO.BookStoreDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BookStoreDO.BookStoreDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BookStoreDO.BookStoreDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager.UpdateAll(BookStoreDO.BookStoreDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BookStoreDO.BookStoreDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

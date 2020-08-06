@@ -1,0 +1,52 @@
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\bin\Debug\PlannerApplication.exe.config
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\bin\Debug\PlannerApplication.exe
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\bin\Debug\PlannerApplication.pdb
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\bin\Debug\PlannerApplication.xml
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.vbprojAssemblyReference.cache
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.TaskListApp.resources
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.Resources.resources
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.vbproj.GenerateResource.cache
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.exe
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.xml
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.pdb
+C:\Users\Ivet\AppData\Local\Temporary Projects\PlannerApplication\obj\Debug\PlannerApplication.TaskDetails.resources
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe.config
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.pdb
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.xml
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskDetails.resources
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskListApp.resources
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.Resources.resources
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.GenerateResource.cache
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.exe
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.xml
+C:\Users\Ivet\Desktop\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskDetails.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskListApp.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.xml
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.xml
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskDetails.resources
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskListApp.resources
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.exe
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.xml
+C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.pdb

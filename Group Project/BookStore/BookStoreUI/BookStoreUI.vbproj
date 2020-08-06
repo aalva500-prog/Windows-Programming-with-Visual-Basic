@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9040EEA9-6947-4286-A804-EFEE015C71CB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BookStoreUI</RootNamespace>
+    <AssemblyName>BookStoreUI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BookStoreUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BookStoreUI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AutoGenerateBindingRedirects>false</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>BookStoreUI.frmBookStoreApplication</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookStoreDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookStoreDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="BookStoreDataSet.vb">
+      <DependentUpon>BookStoreDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="FindTitletoreDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>FindTitletoreDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="frmAddAuthor.designer.vb">
+      <DependentUpon>frmAddAuthor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddAuthor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddPublisher.Designer.vb">
+      <DependentUpon>frmAddPublisher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddPublisher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddTitle.designer.vb">
+      <DependentUpon>frmAddTitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddTitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAuthorsMaintenance.designer.vb">
+      <DependentUpon>frmAuthorsMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAuthorsMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookStoreApplication.designer.vb">
+      <DependentUpon>frmBookStoreApplication.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookStoreApplication.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFindTitle.designer.vb">
+      <DependentUpon>frmFindTitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFindTitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInvoice.Designer.vb">
+      <DependentUpon>frmInvoice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInvoice.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifyAuthor.designer.vb">
+      <DependentUpon>frmModifyAuthor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifyAuthor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifyPublisher.Designer.vb">
+      <DependentUpon>frmModifyPublisher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifyPublisher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModifyTitle.designer.vb">
+      <DependentUpon>frmModifyTitle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmModifyTitle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPublishersMaintenance.Designer.vb">
+      <DependentUpon>frmPublishersMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPublishersMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReport.Designer.vb">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmShoppingCart.Designer.vb">
+      <DependentUpon>frmShoppingCart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmShoppingCart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTitlesMaintenance.designer.vb">
+      <DependentUpon>frmTitlesMaintenance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmTitlesMaintenance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modShoppingCart.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAddAuthor.resx">
+      <DependentUpon>frmAddAuthor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddPublisher.resx">
+      <DependentUpon>frmAddPublisher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddTitle.resx">
+      <DependentUpon>frmAddTitle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAuthorsMaintenance.resx">
+      <DependentUpon>frmAuthorsMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookStoreApplication.resx">
+      <DependentUpon>frmBookStoreApplication.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFindTitle.resx">
+      <DependentUpon>frmFindTitle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInvoice.resx">
+      <DependentUpon>frmInvoice.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifyAuthor.resx">
+      <DependentUpon>frmModifyAuthor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifyPublisher.resx">
+      <DependentUpon>frmModifyPublisher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModifyTitle.resx">
+      <DependentUpon>frmModifyTitle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPublishersMaintenance.resx">
+      <DependentUpon>frmPublishersMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReport.resx">
+      <DependentUpon>frmReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmShoppingCart.resx">
+      <DependentUpon>frmShoppingCart.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTitlesMaintenance.resx">
+      <DependentUpon>frmTitlesMaintenance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="BookStoreDataSet.xsc">
+      <DependentUpon>BookStoreDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="BookStoreDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BookStoreDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="BookStoreDataSet.xss">
+      <DependentUpon>BookStoreDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="FindTitletoreDataSet.xsc">
+      <DependentUpon>FindTitletoreDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="FindTitletoreDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FindTitletoreDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="FindTitletoreDataSet.xss">
+      <DependentUpon>FindTitletoreDataSet.xsd</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BookStoreBO\BookStoreBO.vbproj">
+      <Project>{c8089494-bc82-434e-a836-c75a1718bbe6}</Project>
+      <Name>BookStoreBO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BookStore\BookStoreDO.vbproj">
+      <Project>{d6a9a606-7736-4c1e-acce-453dbd05ba1d}</Project>
+      <Name>BookStoreDO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BookStore.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="BookStore_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>BookStore.mdf</DependentUpon>
+    </Content>
+    <Content Include="Database\BookStore.mdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Database\BookStore_log.ldf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <DependentUpon>BookStore.mdf</DependentUpon>
+    </Content>
+    <None Include="Images\iEdit.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

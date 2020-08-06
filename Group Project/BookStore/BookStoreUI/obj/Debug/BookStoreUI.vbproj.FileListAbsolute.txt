@@ -1,0 +1,482 @@
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Ivet\Desktop\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\Database\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\Database\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDataSet.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\FindTitletoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreBO.dll
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreBO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreBO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAddTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmAuthorsMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmBookStoreApplication.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmFindTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmInvoice.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmLogin.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyAuthor.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyPublisher.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmModifyTitle.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmPublishersMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmReport.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmShoppingCart.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.frmTitlesMaintenance.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.vbproj.CopyComplete
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb

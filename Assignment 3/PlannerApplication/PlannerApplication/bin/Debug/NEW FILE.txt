@@ -1,0 +1,2 @@
+Task One,6/27/2020,10:10,False,A=255, R=0, G=128, B=64
+Task Two,6/27/2020,12:34,True,Red

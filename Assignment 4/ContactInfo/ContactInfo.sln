@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ContactUI", "ContactUI\ContactUI.vbproj", "{2C250E17-A33C-4456-95F5-06F2B5E15ABB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ContactDO", "ContactDO\ContactDO.vbproj", "{00CEEF16-1085-4A65-BA1B-478B9CCBF01E}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ContactBO", "ContactBO\ContactBO.vbproj", "{91BE78AD-9DAB-4A18-A4B6-5850FE060D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C250E17-A33C-4456-95F5-06F2B5E15ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C250E17-A33C-4456-95F5-06F2B5E15ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C250E17-A33C-4456-95F5-06F2B5E15ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C250E17-A33C-4456-95F5-06F2B5E15ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CEEF16-1085-4A65-BA1B-478B9CCBF01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CEEF16-1085-4A65-BA1B-478B9CCBF01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CEEF16-1085-4A65-BA1B-478B9CCBF01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CEEF16-1085-4A65-BA1B-478B9CCBF01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91BE78AD-9DAB-4A18-A4B6-5850FE060D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91BE78AD-9DAB-4A18-A4B6-5850FE060D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91BE78AD-9DAB-4A18-A4B6-5850FE060D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91BE78AD-9DAB-4A18-A4B6-5850FE060D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835F837B-9258-4806-B7E6-A83F4831AA96}
+	EndGlobalSection
+EndGlobal

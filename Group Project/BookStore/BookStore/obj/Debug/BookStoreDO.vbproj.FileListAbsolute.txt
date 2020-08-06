@@ -1,0 +1,175 @@
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 2\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Ivet\Desktop\My Projects\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Versiones\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\IEUser\Downloads\Group Project - Version 2.5\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\IEUser\Downloads\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\New folder\Group Project Add and Modify Author\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 3\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Ivet\Desktop\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Ivet\Desktop\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Ivet\Desktop\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Ivet\Desktop\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Ivet\Desktop\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Ivet\Desktop\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStore.mdf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.pdb

@@ -1,0 +1,3 @@
+My First Task,6/28/2020,12:34,True,Blue
+My second task,6/28/2020,23:45,False,Olive
+My Third Task,6/1/2020,12:56,False,White

@@ -1,0 +1,28 @@
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.exe.config
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.exe
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.pdb
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.xml
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbprojAssemblyReference.cache
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmCoupons.resources
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmProducts.resources
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmShopList.resources
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.Resources.resources
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbproj.GenerateResource.cache
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.exe
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.xml
+C:\Users\Ivet\Desktop\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.exe.config
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.pdb
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmCoupons.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmProducts.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmShopList.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.Resources.resources
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.exe
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.xml
+C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.pdb
