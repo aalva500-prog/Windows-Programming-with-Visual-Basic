@@ -1,1 +1,1 @@
-A GUI scientific calculator app built in Visual Basic.
+A GUI scientific calculator app built using VB.NET syntax.
