@@ -1,4 +1,4 @@
-Contact Info Application with Database.
+Contact Info Application.
 Purpose: Store Contact Info within Database.
 
 DisplayContactInfo Form logic:
