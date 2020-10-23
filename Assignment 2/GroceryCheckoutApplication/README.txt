@@ -27,7 +27,7 @@ ShoppingList Form Actions:
   7.	Remove Button on Click should remove the selected item from the Product List, then call Procedure(s) using Loop(s), constants and variables to update subtotal, tax, shipping and total display formatted as currency.
   8.	Contains? Combobox on _SelectedIndexChanged event, will loop through Product List Items to determine if list contains ComboBox.Text, then show message to display either Contains or Does Not Contain.  
   
-Products Forms Actions:
+Products Form Actions:
   1.	Add Button on Click should store the selected item name and price in global variables and close Form.
   2.	Close Button on Click should close Form.
 
