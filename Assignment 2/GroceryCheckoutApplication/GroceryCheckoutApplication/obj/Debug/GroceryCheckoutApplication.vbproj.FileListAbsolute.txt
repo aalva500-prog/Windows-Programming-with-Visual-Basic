@@ -26,3 +26,17 @@ C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication
 C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.exe
 C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.xml
 C:\Users\Aaron\Desktop\Programming for IT\My Projects\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.exe.config
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\bin\Debug\GroceryCheckoutApplication.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbprojAssemblyReference.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmCoupons.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmProducts.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.frmShopList.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\Grocery_Checkout_Application.Resources.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbproj.GenerateResource.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.vbproj.CoreCompileInputs.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 2\GroceryCheckoutApplication\GroceryCheckoutApplication\obj\Debug\GroceryCheckoutApplication.pdb
