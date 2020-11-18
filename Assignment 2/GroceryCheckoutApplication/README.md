@@ -3,13 +3,13 @@
 
 The sales tax is 6%. If the delivery checkbox is checked, for each PRODUCT item the shipping rate is $2.00, otherwise if not checked the shipping rate is $0. Global variables for price of the currently selected item and name of the currently selected item.
 
-    **Names and prices of the available PRODUCTS:**
+    Names and prices of the available PRODUCTS:
       - Bread (PRODUCT) is $3.95
       - Milk (PRODUCT) is $4.50
       - Sugar (PRODUCT) is $2.50
       - Coffee (PRODUCT) is $4.95
       
-    **Names and credit of the available COUPONS:**
+    Names and credit of the available COUPONS:
       - Milk (COUPON) is -$0.75
       - Sugar (COUPON) is -$0.55
       - Coffee (COUPON) is -$1.85
