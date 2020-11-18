@@ -10,3 +10,15 @@ C:\Users\Aaron\Desktop\Programming for IT\My Projects\Calculator\Calculator\obj\
 C:\Users\Aaron\Desktop\Programming for IT\My Projects\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Aaron\Desktop\Programming for IT\My Projects\Calculator\Calculator\obj\Debug\Calculator.xml
 C:\Users\Aaron\Desktop\Programming for IT\My Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\Calculator.vbprojAssemblyReference.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\WindowsApp1.frmCalculator.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\WindowsApp1.Resources.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 1\Calculator\Calculator\obj\Debug\Calculator.pdb
