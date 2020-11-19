@@ -50,3 +50,16 @@ C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\Planner
 C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.exe
 C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.xml
 C:\Users\Aaron\Desktop\Programming for IT\Assignments\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe.config
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\bin\Debug\PlannerApplication.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbprojAssemblyReference.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskDetails.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.frmTaskListApp.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.Resources.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.GenerateResource.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.vbproj.CoreCompileInputs.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Assignment 3\PlannerApplication\PlannerApplication\obj\Debug\PlannerApplication.pdb
