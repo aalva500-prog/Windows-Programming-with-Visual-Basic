@@ -24,3 +24,11 @@ As part of a team and using the BookStore (mdf) database partially developed, ou
   formatted “report” file containing all items sold within a selected time range. Include Ord_Num, 
   TitleId and Title, qty, ord_date, and total value of sold products. Sort by ord_date.
 * Ensure that menu allows access to maintenance, order and report screens.
+
+## Video Walkthrough
+
+Here's a walkthrough of the app:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
