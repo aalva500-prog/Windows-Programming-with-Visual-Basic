@@ -1,7 +1,7 @@
 # This is a Planner Application built using VB.NET syntax.
 # Purpose: Store Task Information within Files
 
-**PlannerApp Form logic:
+**PlannerApp Form logic:**
 
   a. The Files listbox will be initially empty, but will have the FileNames
   added to the listbox on Create or Open click event.
@@ -16,7 +16,7 @@
   d. The Exit Button on click will close any open file and end the application.
   
   
-**PlannerDetails Form logic:
+**PlannerDetails Form logic:**
 
   a. Add Button on Click should add Name, Date, Time, Complete, and Category values to the Details listbox using the TaskInfo structure, then clear the values from TextBoxes, Label and uncheck Complete.
   b. Remove Button on Click should remove selected item in Details listbox.
