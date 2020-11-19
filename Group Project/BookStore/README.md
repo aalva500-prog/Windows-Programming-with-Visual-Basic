@@ -1,6 +1,4 @@
-# This application is used to purchase Books from a Book Collection. The customer comes 
-to the store and requests to purchase titles. The employee enters the titles and quantities 
-in the application and produces an invoice/receipt for the customer.
+# This application is used to purchase Books from a Book Collection. The customer comes to the store and requests to purchase titles. The employee enters the titles and quantities in the application and produces an invoice/receipt for the customer.
 
 # As part of a team and using the BookStore (mdf) database partially developed, our team worked together to generate an object-oriented design, and multi-tier application called BookStore to purchase from titles with shopping cart. The design includes the classes, associated data, operations of the classes, and the multi-tier application that uses VB.NET logic to implement each of the classes. In addition, we designed and implemented the GUI using Windows forms and controls to create the objects, provide access to each object’s data properties and processing methods.
 
