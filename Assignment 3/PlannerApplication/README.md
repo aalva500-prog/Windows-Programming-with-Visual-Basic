@@ -23,4 +23,12 @@
   * The Save and Cancel buttons should initially be disabled and only enable when Create File is clicked and the Details listbox is not empty.
   * Save Button on Click should using StreamWriter loop through the Details items and WriteLine() to write each record to file, then close/hide form.
   * Cancel Button on Click should first prompt the user YES/NO? For YES do not save to file, then close/hide Details form. For NO do not save to file, but stay on Details form.
+  
+  ## Video Walkthrough
+
+Here's a walkthrough of the app:
+
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
