@@ -173,3 +173,20 @@ C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookSt
 C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.exe
 C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.xml
 C:\Users\Aaron\Desktop\Programming for IT\Group Project\Phase 4\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStore.mdf
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStore_log.ldf
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDataSet.Designer.vb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsc
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDataSet.xsd
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDataSet.xss
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.exe.config
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.pdb
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\bin\Debug\BookStoreDO.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.vbprojAssemblyReference.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.Resources.resources
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.GenerateResource.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.vbproj.CoreCompileInputs.cache
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.exe
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.xml
+D:\FIU\COP4005 - Programming for IT\COP4005 - Windows Programming for IT\Group Project\BookStore\BookStore\obj\Debug\BookStoreDO.pdb
