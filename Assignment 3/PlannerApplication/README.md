@@ -3,17 +3,17 @@
 
 **PlannerApp Form logic:**
 
-  a. The Files listbox will be initially empty, but will have the FileNames
+  * a. The Files listbox will be initially empty, but will have the FileNames
   added to the listbox on Create or Open click event.
-  b. The Create File Button on click should use the FileName textbox for
+  * b. The Create File Button on click should use the FileName textbox for
   filename and the StreamWriter to create a file, and then open the Task
   Details form for entry of task information.
-  c. The Open File Button on click should use the OpenFileDialog control to
+  * c. The Open File Button on click should use the OpenFileDialog control to
   allow the user to select a filename, populate the FileName textbox with the
   selected filename and use the StreamReader to open the file, loop until end
   of file using ReadLine() to populate Details listbox and then show the
   Details form to display a list of task information.
-  d. The Exit Button on click will close any open file and end the application.
+  * d. The Exit Button on click will close any open file and end the application.
   
   
 **PlannerDetails Form logic:**
