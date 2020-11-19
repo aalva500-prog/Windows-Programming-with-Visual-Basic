@@ -2,7 +2,6 @@
 # Purpose: Store Task Information within Files
 
 **PlannerApp Form logic:**
-
   * a. The Files listbox will be initially empty, but will have the FileNames
   added to the listbox on Create or Open click event.
   * b. The Create File Button on click should use the FileName textbox for
@@ -17,7 +16,6 @@
   
   
 **PlannerDetails Form logic:**
-
   * a. Add Button on Click should add Name, Date, Time, Complete, and Category values to the Details listbox using the TaskInfo structure, then clear the values from TextBoxes, Label and uncheck Complete.
   * b. Remove Button on Click should remove selected item in Details listbox.
   * c. The Color Button on click should use color dialog, to allow selection of color and then populate the Category label and font color.
